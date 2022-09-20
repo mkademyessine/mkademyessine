@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkademyessine
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning web development with Python and Java
+- 🌱 I’m currently learning web development with Python and JavaScript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me my GitHub account
 
